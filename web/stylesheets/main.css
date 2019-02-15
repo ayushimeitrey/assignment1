@@ -53,3 +53,4 @@ footer li img{width:32px; height:32px;}
 .Heading{text-align: center;color:#532F8C;font-weight:bold; font-style:oblique; font-size:33px;}
 thead{font-size:20px;}
 .container .row p{ font-style:oblique;}
+.alert a{font-style:oblique; text-decoration:underline; color:blue;}
